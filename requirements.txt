@@ -1,0 +1,12 @@
+anthropic>=2.3.0
+streamlit>=1.66
+duckdb>=2.0
+pandas>=3.0
+numpy
+plotly>=7.0
+openpyxl>=3.1
+pyyaml>=6.0
+markdown>=3.5
+tabulate>=0.9
+python-dotenv>=1.0
+pytest>=8.0
